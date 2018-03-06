@@ -1,0 +1,66 @@
+Array
+(
+    [807229654X] => Array
+        (
+            [valid] => 1
+            [value] => 807229654X
+            [err] => Submission successful.
+        )
+
+    [807229654] => Array
+        (
+            [valid] => 
+            [value] => 807229654
+            [err] => Verify number. Did you mean: 807229654X?
+        )
+
+    [978 032 640 615-1] => Array
+        (
+            [valid] => 1
+            [value] => 9780326406151
+            [err] => Submission successful.
+        )
+
+    [978032640615] => Array
+        (
+            [valid] => 
+            [value] => 978032640615
+            [err] => Verify number. Did you mean: 9780326406151?
+        )
+
+    [0072296542] => Array
+        (
+            [valid] => 1
+            [value] => 0072296542
+            [err] => Submission successful.
+        )
+
+    [176041640615766] => Array
+        (
+            [valid] => 
+            [value] => 176041640615766
+            [err] => The number must have 10 or 13 digits.
+        )
+
+    [0072296552] => Array
+        (
+            [valid] => 
+            [value] => 0072296552
+            [err] => Verify number.
+        )
+
+    [007-229-654 2] => Array
+        (
+            [valid] => 1
+            [value] => 0072296542
+            [err] => Submission successful.
+        )
+
+    [2460323406152] => Array
+        (
+            [valid] => 1
+            [value] => 2460323406152
+            [err] => Submission successful.
+        )
+
+)
